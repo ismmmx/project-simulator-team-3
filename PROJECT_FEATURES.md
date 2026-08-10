@@ -12,3 +12,7 @@ This task involves registering a new street child in the system with demographic
 This task involves creating a new staff profile where an OTP is sent to staff's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
+## T-5: Create a new Orphanage Coordinator profile
+This task involves creating a new orphanage coordinator profile where an OTP is sent to orphanage coordinator’s mobile and a confirmation mail to the registered email.
+**Status: Implemented**
+
