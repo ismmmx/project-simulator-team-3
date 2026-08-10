@@ -23,3 +23,7 @@ This task involves adding a vaccination record for a street child and collecting
 This task involves creating a new vaccination staff profile where an OTP is sent to vaccination staff's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
+"" 
+"## T-9: Log in using my user name ^& password" 
+"This task involves a Foundation Coordinator logging in using their user name and password to control foundation's information. After successful login, the user is redirected to the dashboard and can access all information." 
+"*Status: Implemented*" 
