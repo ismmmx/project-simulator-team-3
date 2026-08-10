@@ -19,3 +19,7 @@ This task involves creating a new orphanage coordinator profile where an OTP is 
 This task involves adding a vaccination record for a street child and collecting thek required vaccination information.
 **Status: Implemented**
 
+## T-8: Create a new Vaccination Staff profile
+This task involves creating a new vaccination staff profile where an OTP is sent to vaccination staff's mobile and a confirmation mail to the registered email.
+**Status: Implemented**
+
