@@ -29,3 +29,8 @@ This task involves creating a new vaccination staff profile where an OTP is sent
 ## T-9: Log in using my user name & password
 This task involves a Foundation Coordinator logging in using their user name and password to control foundation's information. After successful login, the user is redirected to the dashboard and can access all information.
 **Status: Implemented**
+
+## T-10: Login with my username and password
+This task involves authenticating the user with username and password so that associated user data becomes accessible upon successful login.
+**Status: Implemented**
+
