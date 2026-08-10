@@ -21,5 +21,8 @@ This task involves adding a vaccination record for a street child and collecting
 
 ## T-6: Create a new Foundation Coordinator profile
 This task involves creating a new foundation coordinator profile where an OTP is sent to foundation coordinator's mobile and a confirmation mail to the registered email.
+
+## T-8: Create a new Vaccination Staff profile
+This task involves creating a new vaccination staff profile where an OTP is sent to vaccination staff's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
