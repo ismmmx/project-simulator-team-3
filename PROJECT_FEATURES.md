@@ -19,3 +19,7 @@ This task involves creating a new orphanage coordinator profile where an OTP is 
 This task involves adding a vaccination record for a street child and collecting thek required vaccination information.
 **Status: Implemented**
 
+## T-6: Create a new Foundation Coordinator profile
+This task involves creating a new foundation coordinator profile where an OTP is sent to foundation coordinator's mobile and a confirmation mail to the registered email.
+**Status: Implemented**
+
