@@ -7,3 +7,7 @@ This task involves registering a new street child in the system with demographic
 This task involves creating a new administrator profile where an OTP is sent to the user's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
+## T-3: Create a new staff profile
+This task involves creating a new staff profile where an OTP is sent to staff's mobile and a confirmation mail to the registered email.
+**Status: Implemented**
+
