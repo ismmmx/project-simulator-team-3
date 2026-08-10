@@ -26,3 +26,7 @@ This task involves creating a new foundation coordinator profile where an OTP is
 This task involves creating a new vaccination staff profile where an OTP is sent to vaccination staff's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
+## T-10: Login with my username and password
+This task involves authenticating the user with username and password so that associated user data becomes accessible upon successful login.
+**Status: Implemented**
+
