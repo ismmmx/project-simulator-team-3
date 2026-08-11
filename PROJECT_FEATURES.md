@@ -51,6 +51,10 @@ This task involves allowing the orphanage coordinator to update their registered
 This task involves allowing the orphanage coordinator to change their account password for improved security. The system verifies the old password and requires the user to enter the new password twice before successfully updating it. 
 **Status: Implemented**
 
+## T-16: Request New Password 
+This task involves allowing the orphanage coordinator to recover access to their account if they forget their password. The system sends an OTP to the user's registered mobile number and a confirmation email to the registered email address for secure password recovery. 
+**Status: Implemented** 
+
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented** 
