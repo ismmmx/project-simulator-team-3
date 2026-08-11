@@ -43,3 +43,7 @@ Acceptance Criteria: After successful login, the data associated to the user sho
 ## T-13: View Profile Details 
 This task involves allowing the orphanage coordinator to view their own profile details, including the information provided during registration. The system displays the profile information in a structured format and provides an option to edit the details. 
 **Status: Implemented** 
+ 
+## T-15: Change Password 
+This task involves allowing the orphanage coordinator to change their account password for improved security. The system verifies the old password and requires the user to enter the new password twice before successfully updating it. 
+**Status: Implemented** 
