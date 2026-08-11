@@ -34,3 +34,8 @@ This task involves a Foundation Coordinator logging in using their user name and
 This task involves authenticating the user with username and password so that associated user data becomes accessible upon successful login.
 **Status: Implemented**
 
+## T-12: Login with my username and password
+As an Orphanage Coordinator, I want to login with my username and password so that the system can authenticate me and I can trust it.
+Acceptance Criteria: After successful login, the data associated to the user should be accessible.
+**Status: Implemented**
+
