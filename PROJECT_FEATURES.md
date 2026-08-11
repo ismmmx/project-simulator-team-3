@@ -39,11 +39,14 @@ As an Orphanage Coordinator, I want to login with my username and password so th
 Acceptance Criteria: After successful login, the data associated to the user should be accessible.
 **Status: Implemented**
 
- 
 ## T-13: View Profile Details 
 This task involves allowing the orphanage coordinator to view their own profile details, including the information provided during registration. The system displays the profile information in a structured format and provides an option to edit the details. 
 **Status: Implemented** 
  
 ## T-14: Update Information 
 This task involves allowing the orphanage coordinator to update their registered orphanage information to keep the details accurate and up to date. The system provides an Edit Profile option to modify and save the required information. 
-**Status: Implemented** 
+**Status: Implemented**  
+ 
+## T-15: Change Password 
+This task involves allowing the orphanage coordinator to change their account password for improved security. The system verifies the old password and requires the user to enter the new password twice before successfully updating it. 
+**Status: Implemented**
