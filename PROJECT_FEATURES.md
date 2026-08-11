@@ -43,3 +43,7 @@ Acceptance Criteria: After successful login, the data associated to the user sho
 ## T-13: View Profile Details 
 This task involves allowing the orphanage coordinator to view their own profile details, including the information provided during registration. The system displays the profile information in a structured format and provides an option to edit the details. 
 **Status: Implemented** 
+ 
+## T-17: Search Child 
+This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
+**Status: Implemented** 
