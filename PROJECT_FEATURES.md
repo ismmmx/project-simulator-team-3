@@ -39,3 +39,7 @@ As an Orphanage Coordinator, I want to login with my username and password so th
 Acceptance Criteria: After successful login, the data associated to the user should be accessible.
 **Status: Implemented**
 
+ 
+## T-13: View Profile Details 
+This task involves allowing the orphanage coordinator to view their own profile details, including the information provided during registration. The system displays the profile information in a structured format and provides an option to edit the details. 
+**Status: Implemented** 
