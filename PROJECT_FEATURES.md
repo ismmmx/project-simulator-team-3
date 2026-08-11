@@ -43,3 +43,7 @@ Acceptance Criteria: After successful login, the data associated to the user sho
 ## T-13: View Profile Details 
 This task involves allowing the orphanage coordinator to view their own profile details, including the information provided during registration. The system displays the profile information in a structured format and provides an option to edit the details. 
 **Status: Implemented** 
+ 
+## T-14: Update Information 
+This task involves allowing the orphanage coordinator to update their registered orphanage information to keep the details accurate and up to date. The system provides an Edit Profile option to modify and save the required information. 
+**Status: Implemented** 
