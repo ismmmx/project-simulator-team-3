@@ -54,3 +54,7 @@ This task involves allowing the orphanage coordinator to change their account pa
 ## T-16: Request New Password 
 This task involves allowing the orphanage coordinator to recover access to their account if they forget their password. The system sends an OTP to the user's registered mobile number and a confirmation email to the registered email address for secure password recovery. 
 **Status: Implemented** 
+
+## T-17: Search Child 
+This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
+**Status: Implemented** 
