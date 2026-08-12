@@ -80,3 +80,6 @@ This task involves allowing the user to change their password to make their prof
 "" 
 ## T-26: Request a new password 
 This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
+"" 
+## T-27: Record & manage donation 
+This task involves recording and managing donations so that users can keep track of all donations accurately. Donation details are saved successfully and can be viewed and updated within the system. 
