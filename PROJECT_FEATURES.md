@@ -77,3 +77,6 @@ This task involves allowing the foundation coordinator to find a child's record 
 ## T-25: Change my password 
 This task involves allowing the user to change their password to make their profile more secure. The user must input their old password and the new password twice, followed by a clear success notification. 
 **Status: Implemented** 
+"" 
+## T-26: Request a new password 
+This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
