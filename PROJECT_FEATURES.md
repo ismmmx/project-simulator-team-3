@@ -83,3 +83,7 @@ This task involves allowing the user to request a new password so they do not pe
 "" 
 ## T-27: Record & manage donation 
 This task involves recording and managing donations so that users can keep track of all donations accurately. Donation details are saved successfully and can be viewed and updated within the system. 
+"" 
+## T-28: Update funding information 
+This task involves updating funding information to ensure financial records remain accurate. All changes made to the funding data are saved successfully in the system. 
+**Status: Implemented** 
