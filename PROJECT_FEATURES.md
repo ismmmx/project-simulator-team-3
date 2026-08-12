@@ -65,3 +65,7 @@ This task involves allowing the orphanage coordinator to search for a child to f
 "" 
 "## T-20: View my own profile details" 
 "This task involves viewing own profile details to see a list that contains information provided in the registration form. The interface features an information list table window including an edit profile button." 
+"" 
+## T-23: View the list of children my foundation supports 
+This task involves allowing the foundation coordinator to keep track of every child under their care. The system displays a list of children's information linked to their foundation. 
+**Status: Implemented** 
