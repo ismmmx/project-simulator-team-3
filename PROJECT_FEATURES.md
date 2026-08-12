@@ -58,3 +58,7 @@ This task involves allowing the orphanage coordinator to recover access to their
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented** 
+
+## T-18: View Children List
+This task involves allowing the orphanage coordinator to view all children under their care in the orphanage. The system displays a children list table with the total count of children. 
+**Status: Implemented** 
