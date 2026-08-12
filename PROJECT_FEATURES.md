@@ -38,6 +38,10 @@ This task involves a Foundation Coordinator logging in using their user name and
 This task involves authenticating the user with username and password so that associated user data becomes accessible upon successful login.
 **Status: Implemented**
 
+## T-11: View my own profile details
+This task involves displaying user information provided in the registration form in an information list table window including an edit profile button.
+**Status: Implemented**
+
 ## T-12: Login with my username and password
 As an Orphanage Coordinator, I want to login with my username and password so that the system can authenticate me and I can trust it.
 Acceptance Criteria: After successful login, the data associated to the user should be accessible.
@@ -69,7 +73,8 @@ This task involves allowing the orphanage coordinator to view all children under
  
 ## T-19: Update foundation's details and contact information 
 This task involves updating the foundation's details and contact information to ensure it always remains accurate and up-to-date. The interface includes an information list table window along with an edit profile button. 
-**Status: Implemented** 
+**Status: Implemented**
+
 ## T-21: Update my information
 This task involves enabling users to replace incorrect profile information with right information via the information list table window edit button.
 **Status: Implemented**
