@@ -58,3 +58,7 @@ This task involves allowing the orphanage coordinator to recover access to their
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented** 
+ 
+## T-4: Login with my username and password 
+This task involves authenticating staff members using their registered username and password to grant secure access to the staff dashboard and child records. 
+**Status: Implemented** 
