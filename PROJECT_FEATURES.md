@@ -69,3 +69,7 @@ This task involves allowing the orphanage coordinator to search for a child to f
 ## T-23: View the list of children my foundation supports 
 This task involves allowing the foundation coordinator to keep track of every child under their care. The system displays a list of children's information linked to their foundation. 
 **Status: Implemented** 
+"" 
+## T-24: Search for a specific child my foundation supports 
+This task involves allowing the foundation coordinator to find a child's record quickly. The system displays a list of children's information linked to their foundation based on the search query. 
+**Status: Implemented** 
