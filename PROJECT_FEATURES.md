@@ -12,6 +12,10 @@ This task involves registering a new street child in the system with demographic
 This task involves creating a new staff profile where an OTP is sent to staff's mobile and a confirmation mail to the registered email.
 **Status: Implemented**
 
+## T-4: Login with my username and password 
+This task involves authenticating staff members using their registered username and password to grant secure access to the staff dashboard and child records. 
+**Status: Implemented**
+
 ## T-5: Create a new Orphanage Coordinator profile
 This task involves creating a new orphanage coordinator profile where an OTP is sent to orphanage coordinator’s mobile and a confirmation mail to the registered email.
 
@@ -58,7 +62,7 @@ This task involves allowing the orphanage coordinator to recover access to their
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented** 
-
+ 
 ## T-18: View Children List
 This task involves allowing the orphanage coordinator to view all children under their care in the orphanage. The system displays a children list table with the total count of children. 
 **Status: Implemented** 
