@@ -70,3 +70,7 @@ This task involves allowing the orphanage coordinator to view all children under
 ## T-19: Update foundation's details and contact information 
 This task involves updating the foundation's details and contact information to ensure it always remains accurate and up-to-date. The interface includes an information list table window along with an edit profile button. 
 **Status: Implemented** 
+## T-11: View my own profile details
+This task involves displaying user information provided in the registration form in an information list table window including an edit profile button.
+**Status: Implemented**
+
