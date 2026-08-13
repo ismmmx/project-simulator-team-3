@@ -118,6 +118,10 @@ This task allows staff members to update their personal contact details and prof
 ## T-41: Change my password 
 This task allows staff members to securely update and change their account password by providing their current password and confirming the new password. 
 **Status: Implemented**
+ 
+## T-42: Request a new password 
+This task enables staff members to request a password reset if they forget their credentials by submitting their registered username or email address. 
+**Status: Implemented**
 
 ## T-43: Search for child 
 This task enables staff members to search and filter child records in the system using child ID, name, or status to quickly view specific profile details. 
