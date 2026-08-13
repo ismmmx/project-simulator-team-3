@@ -107,6 +107,10 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
 **Status: Implemented**
 
+## T-31: View system users list
+This task involves displaying a table view of system users including their status and roles.
+**Status: Implemented**
+
 ## T-37: Assign child to foundation
 This task involves linking a child to a foundation for support and showing the updated linked child list.
 **Status: Implemented**
