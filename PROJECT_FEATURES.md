@@ -114,3 +114,7 @@ This task enables staff members to view their own profile details provided durin
 ## T-40: Update my information 
 This task allows staff members to update their personal contact details and profile information in the system to replace incorrect data with accurate records. 
 **Status: Implemented** 
+ 
+## T-43: Search for child 
+This task enables staff members to search and filter child records in the system using child ID, name, or status to quickly view specific profile details. 
+**Status: Implemented** 
