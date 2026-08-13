@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-34: Add new foundation
+This task involves registering a new foundation partner by taking input information and notifying success.
+**Status: Implemented**
+
