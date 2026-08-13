@@ -110,3 +110,7 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
 
+ 
+## T-40: Update my information 
+This task allows staff members to update their personal contact details and profile information in the system to replace incorrect data with accurate records. 
+**Status: Implemented** 
