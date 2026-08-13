@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-22: Change my password
+This task involves enabling users to securely change their password by inputting the old password and new password twice with success notification.
+**Status: Implemented**
+
