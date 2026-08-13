@@ -106,10 +106,8 @@ This task involves recording and managing donations so that users can keep track
 ## T-28: Update funding information 
 This task involves updating funding information to ensure financial records remain accurate. All changes made to the funding data are saved successfully in the system. 
 **Status: Implemented** 
- 
 
- 
-
-
-
+## T-38: View vaccination status report
+This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
+**Status: Implemented**
 
