@@ -86,6 +86,19 @@ This task involves enabling users to replace incorrect profile information with 
 ## T-23: View the list of children my foundation supports 
 This task involves allowing the foundation coordinator to keep track of every child under their care. The system displays a list of children's information linked to their foundation. 
 **Status: Implemented** 
+
+## T-24: Search for a specific child my foundation supports 
+This task involves allowing the foundation coordinator to find a child's record quickly. The system displays a list of children's information linked to their foundation based on the search query. 
+**Status: Implemented** 
+ 
+## T-25: Change my password 
+This task involves allowing the user to change their password to make their profile more secure. The user must input their old password and the new password twice, followed by a clear success notification. 
+**Status: Implemented** 
+
+## T-26: Request a new password 
+This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
+**Status: Implemented** 
+
  
 
  
