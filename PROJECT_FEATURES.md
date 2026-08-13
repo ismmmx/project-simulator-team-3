@@ -99,14 +99,10 @@ This task involves allowing the user to change their password to make their prof
 This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
 **Status: Implemented** 
 
- 
-
- 
-
-
-
-
 ## T-29: Request a new password
 This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
+
+## T-38: View vaccination status report
+This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
 
