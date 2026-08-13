@@ -110,3 +110,7 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
 
+ 
+## T-39: View my own profile details 
+This task enables staff members to view their own profile details provided during registration in an information table window with an option to edit profile. 
+**Status: Implemented** 
