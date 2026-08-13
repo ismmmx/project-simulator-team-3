@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-38: View vaccination status report
+This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
+**Status: Implemented**
+
