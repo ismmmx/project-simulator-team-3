@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-32: Add new orphanage
+This task involves registering a new orphanage partner by providing required information and displaying success notification.
+**Status: Implemented**
+
