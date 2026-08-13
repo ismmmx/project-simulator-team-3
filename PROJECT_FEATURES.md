@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-33: View orphanage list
+This task involves displaying the updated list of all registered orphanages with update and delete action buttons.
+**Status: Implemented**
+
