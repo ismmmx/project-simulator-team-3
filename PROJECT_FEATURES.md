@@ -110,3 +110,7 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
 
+ 
+## T-42: Request a new password 
+This task enables staff members to request a password reset if they forget their credentials by submitting their registered username or email address. 
+**Status: Implemented** 
