@@ -107,8 +107,10 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
 **Status: Implemented**
 
-## T-38: View vaccination status report
-This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
+## T-37: Assign child to foundation
+This task involves linking a child to a foundation for support and showing the updated linked child list.
+**Status: Implemented**
+
 ## T-38: View vaccination status report
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
