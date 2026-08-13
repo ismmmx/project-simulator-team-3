@@ -99,18 +99,18 @@ This task involves allowing the user to change their password to make their prof
 This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
 **Status: Implemented** 
 
- 
-
- 
-
-
-
-
 ## T-38: View vaccination status report
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
 
+## T-39: View my own profile details 
+This task enables staff members to view their own profile details provided during registration in an information table window with an option to edit profile. 
+**Status: Implemented** 
  
+## T-40: Update my information 
+This task allows staff members to update their personal contact details and profile information in the system to replace incorrect data with accurate records. 
+**Status: Implemented** 
+
 ## T-41: Change my password 
 This task allows staff members to securely update and change their account password by providing their current password and confirming the new password. 
 **Status: Implemented** 
