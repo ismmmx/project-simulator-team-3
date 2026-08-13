@@ -107,12 +107,22 @@ This task involves allowing the user to request a new password so they do not pe
 This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
 **Status: Implemented**
 
+## T-30: Remove user profile
+This task involves removing a user profile with a confirmation popup displaying details before action.
+**Status: Implemented**
+
+## T-31: View system users list
+This task involves displaying a table view of system users including their status and roles.
+**Status: Implemented**
+
 ## T-33: View orphanage list
 This task involves displaying the updated list of all registered orphanages with update and delete action buttons.
 **Status: Implemented**
 
-## T-38: View vaccination status report
-This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
+## T-37: Assign child to foundation
+This task involves linking a child to a foundation for support and showing the updated linked child list.
+**Status: Implemented**
+
 ## T-38: View vaccination status report
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
 **Status: Implemented**
@@ -136,3 +146,11 @@ This task enables staff members to request a password reset if they forget their
 ## T-43: Search for child 
 This task enables staff members to search and filter child records in the system using child ID, name, or status to quickly view specific profile details. 
 **Status: Implemented** 
+  
+## T-44: View child list 
+This task enables staff members to view the complete list of registered children in a tabular layout to monitor child details and status. 
+**Status: Implemented**
+
+## T-45: Update child status 
+This task enables staff members to update and maintain current condition and care status records for registered children in the system.
+**Status: Implemented**
