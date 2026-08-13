@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-30: Remove user profile
+This task involves removing a user profile with a confirmation popup displaying details before action.
+**Status: Implemented**
+
