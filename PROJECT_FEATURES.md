@@ -142,3 +142,7 @@ This task enables staff members to request a password reset if they forget their
 ## T-43: Search for child 
 This task enables staff members to search and filter child records in the system using child ID, name, or status to quickly view specific profile details. 
 **Status: Implemented** 
+ 
+## T-45: Update child status 
+This task enables staff members to update and maintain current condition and care status records for registered children in the system. 
+**Status: Implemented** 
