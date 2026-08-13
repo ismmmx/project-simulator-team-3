@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-29: Request a new password
+This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
+**Status: Implemented**
+
