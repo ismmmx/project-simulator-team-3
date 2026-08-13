@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-35: View foundation list
+This task involves displaying the updated foundation list along with update and delete action options.
+**Status: Implemented**
+
