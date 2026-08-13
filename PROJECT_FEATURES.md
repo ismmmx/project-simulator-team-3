@@ -115,6 +115,10 @@ This task involves removing a user profile with a confirmation popup displaying 
 This task involves displaying a table view of system users including their status and roles.
 **Status: Implemented**
 
+## T-33: View orphanage list
+This task involves displaying the updated list of all registered orphanages with update and delete action buttons.
+**Status: Implemented**
+
 ## T-37: Assign child to foundation
 This task involves linking a child to a foundation for support and showing the updated linked child list.
 **Status: Implemented**
