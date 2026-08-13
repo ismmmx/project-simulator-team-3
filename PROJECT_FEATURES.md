@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-36: Assign child to orphanage
+This task involves linking a child to a specific orphanage and displaying the updated child list linked to that orphanage.
+**Status: Implemented**
+
