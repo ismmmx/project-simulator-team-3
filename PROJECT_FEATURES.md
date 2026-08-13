@@ -106,3 +106,7 @@ This task involves allowing the user to request a new password so they do not pe
 
 
 
+## T-37: Assign child to foundation
+This task involves linking a child to a foundation for support and showing the updated linked child list.
+**Status: Implemented**
+
