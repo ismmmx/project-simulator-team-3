@@ -83,6 +83,10 @@ This task involves viewing own profile details to see a list that contains infor
 This task involves enabling users to replace incorrect profile information with right information via the information list table window edit button.
 **Status: Implemented**
 
+## T-22: Change my password
+This task involves enabling users to securely change their password by inputting the old password and new password twice with success notification.
+**Status: Implemented**
+
 ## T-23: View the list of children my foundation supports 
 This task involves allowing the foundation coordinator to keep track of every child under their care. The system displays a list of children's information linked to their foundation. 
 **Status: Implemented** 
@@ -113,4 +117,8 @@ This task allows staff members to update their personal contact details and prof
 
 ## T-41: Change my password 
 This task allows staff members to securely update and change their account password by providing their current password and confirming the new password. 
+**Status: Implemented**
+
+## T-43: Search for child 
+This task enables staff members to search and filter child records in the system using child ID, name, or status to quickly view specific profile details. 
 **Status: Implemented** 
