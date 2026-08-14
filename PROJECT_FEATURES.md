@@ -187,3 +187,7 @@ This task enables staff members to update and maintain current condition and car
 This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
 
+## T-50: Implement requesting password Page
+## T-50: This task involves requesting a new password page, including validation and error handling
+**Status: Implemented** 
+
