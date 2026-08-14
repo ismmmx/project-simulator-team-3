@@ -210,3 +210,7 @@ This task involves Updating vaccination status page, including validation and er
 ## T-52: Implement Remove vaccination record Page
 This task involves Remove vaccination record page, including validation and error handling.
 **Status: Implemented** 
+
+## T-53: Implement Viewing pending or overdue vaccinations Page
+This task Viewing pending or overdue vaccinations page, including validation and error handling.
+**Status: Implemented** 
