@@ -188,6 +188,6 @@ This task involves creating a login form component with email and password field
 **Status: Implemented** 
 
 ## T-51: Implement Updating vaccination status Page
-## T-51: This task involves Updating vaccination status page, including validation and error handling
+This task involves Updating vaccination status page, including validation and error handling.
 **Status: Implemented** 
 
