@@ -187,3 +187,7 @@ This task enables staff members to update and maintain current condition and car
 This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
 
+## T-51: Implement Updating vaccination status Page
+## T-51: This task involves Updating vaccination status page, including validation and error handling
+**Status: Implemented** 
+
