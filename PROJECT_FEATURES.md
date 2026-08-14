@@ -199,3 +199,7 @@ This task involves creating a information updating page, including validation an
 This task involves creating a password changing page, including validation and error handling.
 **Status: Implemented** 
 
+## T-50: Implement requesting password Page
+This task involves requesting a new password page, including validation and error handling.
+**Status: Implemented** 
+
