@@ -188,6 +188,6 @@ This task involves creating a login form component with email and password field
 **Status: Implemented** 
 
 ## T-53: Implement Viewing pending or overdue vaccinations Page
-## T-53: This task Viewing pending or overdue vaccinations page, including validation and error handling
+This task Viewing pending or overdue vaccinations page, including validation and error handling.
 **Status: Implemented** 
 
