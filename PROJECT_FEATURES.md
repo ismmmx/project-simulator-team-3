@@ -65,6 +65,8 @@ This task involves allowing the orphanage coordinator to recover access to their
 
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
+**Status: Implemented**  
+
 **Status: Implemented** 
  
 ## T-18: View Children List
@@ -97,6 +99,8 @@ This task involves allowing the foundation coordinator to find a child's record 
  
 ## T-25: Change my password 
 This task involves allowing the user to change their password to make their profile more secure. The user must input their old password and the new password twice, followed by a clear success notification. 
+**Status: Implemented**
+
 **Status: Implemented** 
  
 ## T-26: Request a new password 
