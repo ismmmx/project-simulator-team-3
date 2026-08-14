@@ -206,3 +206,7 @@ This task involves requesting a new password page, including validation and erro
 ## T-51: Implement Updating vaccination status Page
 This task involves Updating vaccination status page, including validation and error handling.
 **Status: Implemented** 
+
+## T-52: Implement Remove vaccination record Page
+This task involves Remove vaccination record page, including validation and error handling.
+**Status: Implemented** 
