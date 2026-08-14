@@ -188,6 +188,6 @@ This task involves creating a login form component with email and password field
 **Status: Implemented** 
 
 ## T-50: Implement requesting password Page
-## T-50: This task involves requesting a new password page, including validation and error handling
+This task involves requesting a new password page, including validation and error handling.
 **Status: Implemented** 
 
