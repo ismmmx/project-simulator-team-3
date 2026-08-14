@@ -143,6 +143,10 @@ This task involves registering a new foundation partner by taking input informat
 This task involves displaying the updated foundation list along with update and delete action options.
 **Status: Implemented**
 
+## T-36: Assign child to orphanage
+This task involves linking a child to a specific orphanage and displaying the updated child list linked to that orphanage.
+**Status: Implemented**
+
 ## T-37: Assign child to foundation
 This task involves linking a child to a foundation for support and showing the updated linked child list.
 **Status: Implemented**
