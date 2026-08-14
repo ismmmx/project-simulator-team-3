@@ -188,6 +188,6 @@ This task involves creating a login form component with email and password field
 **Status: Implemented** 
 
 ## T-52: Implement Remove vaccination record Page
-## T-52: This task involves Remove vaccination record page, including validation and error handling
+This task involves Remove vaccination record page, including validation and error handling.
 **Status: Implemented** 
 
