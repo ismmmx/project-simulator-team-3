@@ -100,8 +100,6 @@ This task involves allowing the foundation coordinator to find a child's record 
 ## T-25: Change my password 
 This task involves allowing the user to change their password to make their profile more secure. The user must input their old password and the new password twice, followed by a clear success notification. 
 **Status: Implemented**
-
-**Status: Implemented** 
  
 ## T-26: Request a new password 
 This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
@@ -141,6 +139,10 @@ This task involves linking a child to a foundation for support and showing the u
 
 ## T-38: View vaccination status report
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
+**Status: Implemented**
+
+## T-32: Add new orphanage
+This task involves registering a new orphanage partner by providing required information and displaying success notification.
 **Status: Implemented**
 
 ## T-39: View my own profile details 
