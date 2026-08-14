@@ -191,4 +191,7 @@ This task involves creating a login form component with email and password field
 This task involves creating a user details page with proper information, including validation and error handling.
 **Status: Implemented** 
 
+## T-48: Implement Updating information Page
+This task involves creating a information updating page, including validation and error handling.
+**Status: Implemented**
 
