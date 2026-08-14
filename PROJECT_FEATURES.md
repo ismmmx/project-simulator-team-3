@@ -66,7 +66,7 @@ This task involves allowing the orphanage coordinator to recover access to their
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented** 
-
+ 
 ## T-18: View Children List
 This task involves allowing the orphanage coordinator to view all children under their care in the orphanage. The system displays a children list table with the total count of children. 
 **Status: Implemented** 
@@ -102,6 +102,10 @@ This task involves allowing the user to change their password to make their prof
 ## T-26: Request a new password 
 This task involves allowing the user to request a new password so they do not permanently lose access to their data if they forget it. An OTP is sent to the user's mobile alongside a confirmation mail to their registered email. 
 **Status: Implemented** 
+
+## T-27: Record & manage donation 
+This task involves recording and managing donations so that users can keep track of all donations accurately. Donation details are saved successfully and can be viewed and updated within the system. 
+**Status: Implemented**
 
 ## T-29: Request a new password
 This task involves sending an OTP to user's mobile and confirmation mail to the registered email for password reset request.
