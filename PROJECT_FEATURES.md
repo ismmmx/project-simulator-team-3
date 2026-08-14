@@ -188,6 +188,6 @@ This task involves creating a login form component with email and password field
 **Status: Implemented** 
 
 ## T-49: Implement changing password Page
-## T-49: This task involves creating a password changing page, including validation and error handling
+This task involves creating a password changing page, including validation and error handling.
 **Status: Implemented** 
 
