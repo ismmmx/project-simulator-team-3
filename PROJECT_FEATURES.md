@@ -195,3 +195,7 @@ This task involves creating a user details page with proper information, includi
 This task involves creating a information updating page, including validation and error handling.
 **Status: Implemented**
 
+## T-49: Implement changing password Page
+This task involves creating a password changing page, including validation and error handling.
+**Status: Implemented** 
+
