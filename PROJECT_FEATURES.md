@@ -187,7 +187,26 @@ This task enables staff members to update and maintain current condition and car
 This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
 
+## T-47: Implement User Profile details page
+This task involves creating a user details page with proper information, including validation and error handling.
+**Status: Implemented** 
+
+## T-48: Implement Updating information Page
+This task involves creating a information updating page, including validation and error handling.
+**Status: Implemented**
+
+## T-49: Implement changing password Page
+This task involves creating a password changing page, including validation and error handling.
+**Status: Implemented** 
+
+## T-50: Implement requesting password Page
+This task involves requesting a new password page, including validation and error handling.
+**Status: Implemented** 
+
+## T-51: Implement Updating vaccination status Page
+This task involves Updating vaccination status page, including validation and error handling.
+**Status: Implemented** 
+
 ## T-52: Implement Remove vaccination record Page
 This task involves Remove vaccination record page, including validation and error handling.
 **Status: Implemented** 
-
