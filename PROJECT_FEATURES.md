@@ -187,8 +187,11 @@ This task enables staff members to update and maintain current condition and car
 This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
 
-## T-48: Implement Updating information Page
-## T-47: This task involves creating a information updating page, including validation and error handling
+## T-47: Implement User Profile details page
+This task involves creating a user details page with proper information, including validation and error handling.
 **Status: Implemented** 
 
+## T-48: Implement Updating information Page
+This task involves creating a information updating page, including validation and error handling.
+**Status: Implemented**
 
