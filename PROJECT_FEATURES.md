@@ -182,8 +182,13 @@ This task enables staff members to view the complete list of registered children
 ## T-45: Update child status 
 This task enables staff members to update and maintain current condition and care status records for registered children in the system.
 **Status: Implemented**
-## T-47: Implement User Login Page
-## T-47: Implement User Profile details page
-## T-47: This task involves creating a user details page with proper information, including validation and error handling
+
+## T-46: Implement User Login Page
+This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
+
+## T-47: Implement User Profile details page
+This task involves creating a user details page with proper information, including validation and error handling.
+**Status: Implemented** 
+
 
