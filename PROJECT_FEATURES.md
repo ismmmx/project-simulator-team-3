@@ -203,3 +203,6 @@ This task involves creating a password changing page, including validation and e
 This task involves requesting a new password page, including validation and error handling.
 **Status: Implemented** 
 
+## T-51: Implement Updating vaccination status Page
+This task involves Updating vaccination status page, including validation and error handling.
+**Status: Implemented** 
