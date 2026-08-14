@@ -66,8 +66,6 @@ This task involves allowing the orphanage coordinator to recover access to their
 ## T-17: Search Child 
 This task involves allowing the orphanage coordinator to search for a child to find a specific child record quickly. The system displays a list of the desired children's records matching the search criteria. 
 **Status: Implemented**  
-
-**Status: Implemented** 
  
 ## T-18: View Children List
 This task involves allowing the orphanage coordinator to view all children under their care in the orphanage. The system displays a children list table with the total count of children. 
@@ -129,8 +127,16 @@ This task involves removing a user profile with a confirmation popup displaying 
 This task involves displaying a table view of system users including their status and roles.
 **Status: Implemented**
 
+## T-32: Add new orphanage
+This task involves registering a new orphanage partner by providing required information and displaying success notification.
+**Status: Implemented**
+
 ## T-33: View orphanage list
 This task involves displaying the updated list of all registered orphanages with update and delete action buttons.
+**Status: Implemented**
+
+## T-34: Add new foundation
+This task involves registering a new foundation partner by taking input information and notifying success.
 **Status: Implemented**
 
 ## T-37: Assign child to foundation
@@ -139,10 +145,6 @@ This task involves linking a child to a foundation for support and showing the u
 
 ## T-38: View vaccination status report
 This task involves displaying a report table containing completed, pending, and overdue vaccination status for children.
-**Status: Implemented**
-
-## T-32: Add new orphanage
-This task involves registering a new orphanage partner by providing required information and displaying success notification.
 **Status: Implemented**
 
 ## T-39: View my own profile details 
