@@ -187,3 +187,7 @@ This task enables staff members to update and maintain current condition and car
 This task involves creating a login form component with email and password fields, including validation and error handling.
 **Status: Implemented** 
 
+## T-52: Implement Remove vaccination record Page
+## T-52: This task involves Remove vaccination record page, including validation and error handling
+**Status: Implemented** 
+
